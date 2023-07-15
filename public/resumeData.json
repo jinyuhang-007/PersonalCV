@@ -46,24 +46,20 @@
     ],
     "work":[
       {
-        "company":"",
-        "title":"",
-        "years":"",
-        "description":""
+        "company":"Easley Dunn Productions, Inc.",
+        "title":"Software Engineer",
+        "years":"3 month",
+        "description":"construct and code the game economy into the updates of the mobile free to play game ‘Monster Football’."
       }
     ],
     "skills":[
       {
         "name":"Backend Development (Infrastructure, API, Database)",
-        "level":"95%"
+        "level":"90%"
       },
       {
-        "name":"Frontend Development (React, Angular)",
-        "level":"85%"
-      },
-      {
-        "name":"Embeded Software development (C/C++)",
-        "level":"80%"
+        "name":"Frontend Development (React, Flutter)",
+        "level":"70%"
       },
       {
         "name":"Leadership & Management",
@@ -72,52 +68,6 @@
       {
         "name":"Passion & Eager to learn",
         "level":"100%"
-      }
-    ]
-  },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Course",
-        "description": "如何在澳洲找IT工作",
-        "category": "Course",
-        "image":"00.png",
-        "url":"https://course.cyberlark.com.au/courses/it"
-      },
-      {
-        "title":"Project",
-        "description": "Investment Property Calculator",
-        "category": "Project",
-        "image":"04.png",
-        "url":"https://property.cyberlark.com.au/"
-      },
-      {
-        "title":"Video",
-        "description": "How to use Investment Property Calculator",
-        "category": "Video",
-        "image":"01.png",
-        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
-      },
-      {
-        "title":"Video",
-        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
-        "category":"Video",
-        "image":"02.png",
-        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
-      },
-      {
-        "title":"Video",
-        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
-        "category": "Video",
-        "image":"03.png",
-        "url":"https://www.youtube.com/watch?v=kg2sJgO3Esc"
-      },
-      {
-        "title":"Video",
-        "description": "如何使用澳洲房产投资计算器",
-        "category": "Video",
-        "image":"01-chinese.png",
-        "url":"https://www.youtube.com/watch?v=03WayI5czhY"
       }
     ]
   }
