@@ -1,9 +1,9 @@
 {
   "main": {
-    "name":"Yuhang Jin(金煜航)",
-    "description":"Passionate about learning technology and sharing knowledge",
+    "name":"Yuhang Jin 金煜航",
+    "description":"Passionate about learning technology and sharing knowledge.",
     "image":"yuhangjin.jpg",
-    "bio":"My name is Yuhang Jin, a student majoring in computer science at USC.",
+    "bio": "My name is Jin Yuhang, and I am currently pursuing my second year of Master's degree in Computer Science at the University of Southern California. I have a strong passion for learning new computer technologies and exploring innovative solutions. Apart from academics, I enjoy an active lifestyle. Tennis is one of my favorite sports, and I love spending time on the court honing my skills. Additionally, I find relaxation and enjoyment in playing video games, which also allows me to unwind and connect with friends. I am excited about the opportunities ahead and look forward to contributing my skills and knowledge to make a positive impact in the field of computer science.",
     "contactmessage":"Thank you for your feedback.",
     "email": "yuhangjin1999@outlook.com",
     "phone": "(+1) 213-574-5319",
@@ -68,6 +68,25 @@
       {
         "name":"Passion & Eager to learn",
         "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects":[
+      {
+        "title": "Database Project",
+        "description": "A mini database project",
+        "category": "project",
+        "image": "01.png",
+        "url": "https://github.com/jinyuhang-007/miniSQL"
+
+      },
+      {
+        "title": "Game Project",
+        "description": "A Game project based on Unity",
+        "category": "project",
+        "image": "02.png",
+        "url": "https://github.com/jinyuhang-007/CSCI_526_Project"
       }
     ]
   }
