@@ -1,4 +1,4 @@
-# Cyberlark David Resume Template
+# Yuhang Jin's Resume
 ![Status](https://github.com/David-Cyberlark/PersonalCV/actions/workflows/build.yml/badge.svg)
 
 # Run Project
