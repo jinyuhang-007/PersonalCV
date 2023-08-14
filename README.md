@@ -1,5 +1,5 @@
 # Yuhang Jin's Resume
-![Status](https://github.com/David-Cyberlark/PersonalCV/actions/workflows/build.yml/badge.svg)
+![Status](https://github.com/jinyuhang-007/PersonalCV/actions/workflows/build.yml/badge.svg)
 
 # Run Project
 ### 1. Clone the project
